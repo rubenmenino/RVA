@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TELEPORT.unity
+    guid: 03b610d1c87056b4293124045be3be6f
+  - enabled: 1
+    path: Assets/Scenes/trueMenuScene.unity
+    guid: 2b3a99f7c846d884788bc8bd0c2aea72
+  - enabled: 1
+    path: Assets/Scenes/LVL1.unity
+    guid: 951db482a9d2d3a4c92d4471fa1f8048
+  - enabled: 1
+    path: Assets/Scenes/LVL2.unity
+    guid: 06c80572ede8eb042a724e263c4ca2e7
+  - enabled: 1
+    path: Assets/Scenes/LVL3.unity
+    guid: 9ad37ac11eae4fd4ba3a3e7e2fa7ef73
+  - enabled: 1
+    path: Assets/Scenes/LVL4.unity
+    guid: 89246ae4dead98e4ab184148f795080a
+  - enabled: 1
+    path: Assets/Scenes/LVL5.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: 8410d98b7507cfb49b2c24253401a4ce
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 109802a436ecaab45a77f6906701b461
+  - enabled: 1
+    path: Assets/CILINDROS/cil_lvl_1.unity
+    guid: afd87fcb6ab14744499679b9a6a97046
+  - enabled: 1
+    path: Assets/CILINDROS/cil_lvl_2.unity
+    guid: ade2395779ab92a489728e0981734b4d
+  - enabled: 1
+    path: Assets/CILINDROS/cil_lvl_3.unity
+    guid: 1effd9ca3e06f3c4db3feaaeec1e3b9f
+  - enabled: 1
+    path: Assets/CILINDROS/cil_lvl_4.unity
+    guid: 10ffdb35e26e1dd41bfa61845316d680
+  - enabled: 1
+    path: Assets/CILINDROS/cil_lvl_5.unity
+    guid: eef0b0b308b4f7a41a7604736c1d34f9
+  - enabled: 1
+    path: Assets/CILINDROS/MainMenuCilindros.unity
+    guid: f56176c44164dfd4c9ab36b2dbaed22a
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay_Cilindros.unity
+    guid: 45bb74d6882280a41b928eca42bcfb77
+  - enabled: 1
+    path: Assets/CILINDROS/finish.unity
+    guid: 1c1db79245c16e04aaf0d549492c43df
+  - enabled: 1
+    path: Assets/Scenes/reflexxx/SampleScene.unity
+    guid: c4ddc4ed44a510544aa1b110f80eec54
+  - enabled: 1
+    path: Assets/Scenes/reflexxx/menuReflex.unity
+    guid: 18a5cfc27a25a274280a3480519c95a4
+  - enabled: 1
+    path: Assets/Scenes/reflexxx/tutorial_reflex.unity
+    guid: 1c995c5c4463b554aa4a5571dfee0b26
+  - enabled: 1
+    path: Assets/Scenes/reflexxx/GameOver_reflex.unity
+    guid: aeef2755bb1405944998847720c879fc
+  - enabled: 1
+    path: Assets/Scenes/reflexxx/finish_reflex.unity
+    guid: d1e15f9f6a61e3c4ab86785831321ec6
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 309d1ced94e1a5d4fb8b0ffa6a185ac0, type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 8325d3210cfce8545a3111cdfa651497, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0da6b71d97112e5409e21c01b7d0e539, type: 2}
